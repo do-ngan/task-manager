@@ -11,7 +11,7 @@ function App() {
         <TodoList />
       </div>
       <Toaster position='bottom-right'/>
-    </> ----
+    </> 
   );
 }
 

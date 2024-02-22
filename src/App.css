@@ -58,20 +58,22 @@
   color: #8a8e9d;
 }
 
-#search-clear-button {
+#search-container {
   position: relative;
-  top: 0.5px;
-  right: 35px;
+}
+
+#search-clear-button {
+  position: absolute;
+  right: 4px;
+  top: 20px;
+  bottom: 5px;
   border: 0;
   background: none;
   color: #141c3a;
   margin: 0;
   padding: 0 10px;
   border-radius: 100px;
-
   cursor: pointer;
-
-  align-items: center;
 }
 
 .btn-primary {

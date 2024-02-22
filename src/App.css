@@ -80,3 +80,7 @@
   background-color: #f5893b !important;
   border: none !important;
 }
+
+.btn-primary:hover {
+  background-color: #f79f60 !important;
+}
